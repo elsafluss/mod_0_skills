@@ -1,0 +1,11 @@
+dairy refrigerator
+
+temperature (30)
+isFull (true)
+isClean (false)
+numberOfShelves (4)
+
+makeColder (temperature 28)
+emptyFridge (isFull false)
+cleanFridge (isClean true)
+addShelf (numberOfShelves 5)
