@@ -1,0 +1,14 @@
+refrigerator
+
+attributes
+temperature (integer)
+isFull (boolean)
+isClean (boolean)
+numberOfShelves (integer)
+
+
+methods
+makeColder (changes temperature to a lower integer)
+emptyFridge (changes isFull to false)
+cleanFridge (changes isClean to true)
+addShelf (modifies numberOfShelves to a higher integer)
