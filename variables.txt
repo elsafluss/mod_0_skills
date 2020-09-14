@@ -1,0 +1,16 @@
+var food = "pizza";
+
+var is_delicious = true;
+
+food = "salmon";
+
+var num2 = 10;
+var num7 = 20;
+
+var quotient = num7 / num2;
+
+var songs = ["Happy Birthday", "Can't Touch This", "Bohemian Rhapsody"];
+
+songs.shift();
+
+food.length
