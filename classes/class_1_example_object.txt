@@ -1,0 +1,11 @@
+table 7
+
+numberOfSeats 4
+numberOfGuests 0
+isServed false
+hasCheck false
+
+addLeaf (numberOfSeats 6)
+seatGuest (numberOfGuests 5)
+serveGuest (isServed true)
+dropOffCheck (hasCheck true)
