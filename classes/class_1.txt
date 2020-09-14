@@ -1,10 +1,12 @@
 table
 
+attributes
 numberOfSeats (integer)
 numberOfGuests (integer)
 isServed (boolean)
 hasCheck (boolean)
 
+methods
 addLeaf (modifies numberOfSeats to a higher integer)
 seatGuest (modifies numberOfGuests to a higher integer)
 serveGuest (changes isServed to true)
