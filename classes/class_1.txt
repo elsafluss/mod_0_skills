@@ -1,0 +1,11 @@
+table
+
+numberOfSeats (integer)
+numberOfGuests (integer)
+isServed (boolean)
+hasCheck (boolean)
+
+addLeaf (modifies numberOfSeats to a higher integer)
+seatGuest (modifies numberOfGuests to a higher integer)
+serveGuest (changes isServed to true)
+dropOffCheck (changes hasCheck to true)
